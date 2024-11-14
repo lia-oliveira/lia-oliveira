@@ -44,5 +44,5 @@ Whenever an achievement is unlocked, the icon will turn colorful.
 | Status | Title             | Repo                                                                            | Live URL                                                        | TAGS  |
 |:--:    |--                 |--                                                                               |--                                                               |--     |
 |✅      |QR Code Component  | [qrcode-component repository](https://github.com/lia-oliveira/qrcode-component) | [QR Component Live](https://qrcode-component-khaki.vercel.app/) | HTML5, CSS3, CSS GRID, Flexbox, Figma, Design System|
-|👷🏻      |Blog Preview Card  | [blog-preview-card tepository](https://github.com/lia-oliveira/blog-preview-card)| soon      |
-
+|✅      |Blog Preview Card  | [blog-preview-card repository](https://github.com/lia-oliveira/blog-preview-card)| [Blog Preview Card Live](https://blog-preview-card-seven-ruddy.vercel.app/)     |
+|👷🏻      |Social Links Profile | [social-links-profile repository](https://github.com/lia-oliveira/social-links-profile)| [Soon()     |
