@@ -41,8 +41,8 @@ Whenever an achievement is unlocked, the icon will turn colorful.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lia-oliveira&layout=compact&theme=nightowl)](https://github.com/lia-oliveira)
 
 # Latest projects
-| Status | Title             | Repo                                                                            | Live URL                                                        | TAGS  |
-|:--:    |--                 |--                                                                               |--                                                               |--     |
-|✅      |QR Code Component  | [qrcode-component repository](https://github.com/lia-oliveira/qrcode-component) | [QR Component Live](https://qrcode-component-khaki.vercel.app/) | HTML5, CSS3, CSS GRID, Flexbox, Figma, Design System|
-|✅      |Blog Preview Card  | [blog-preview-card repository](https://github.com/lia-oliveira/blog-preview-card)| [Blog Preview Card Live](https://blog-preview-card-seven-ruddy.vercel.app/)  | HTML5, CSS3, CSS Grid, Flexbox, Figma, Design System, CSS Variables, Responsive Web Design|
-|👷🏻      |Social Links Profile | [social-links-profile repository](https://github.com/lia-oliveira/social-links-profile)| [Soon()     |   |
+| # | Status | Title             | Repo                                                                            | Live URL                                                        | TAGS  |
+|:--:|:--:    |--                 |--                                                                               |--                                                               |--     |
+|3|✅      |Social Links Profile | [social-links-profile repository](https://github.com/lia-oliveira/social-links-profile)| [Social Links Profile Live ](https://social-links-profile-one-lac.vercel.app/)    | HTML5, CSS3, CSS Flexbox  |
+|2|✅      |Blog Preview Card  | [blog-preview-card repository](https://github.com/lia-oliveira/blog-preview-card)| [Blog Preview Card Live](https://blog-preview-card-seven-ruddy.vercel.app/)  | HTML5, CSS3, CSS Grid, Flexbox, Figma, Design System, CSS Variables, Responsive Web Design|
+|1|✅      |QR Code Component  | [qrcode-component repository](https://github.com/lia-oliveira/qrcode-component) | [QR Component Live](https://qrcode-component-khaki.vercel.app/) | HTML5, CSS3, CSS GRID, Flexbox, Figma, Design System|
