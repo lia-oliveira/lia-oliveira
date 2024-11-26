@@ -43,6 +43,7 @@ Whenever an achievement is unlocked, the icon will turn colorful.
 # Latest projects
 | # | Status | Title             | Repo                                                                            | Live URL                                                        | TAGS  |
 |:--:|:--:    |--                 |--                                                                               |--                                                               |--     |
+|7|👷🏻To Do |Testimonials grid section| [Testimonials grid section Repo]()| [Testimonials grid section Live]()    |HTML5, CSS3, Mobile-first workflow, Media Query, Flexbox, CSS Grid|
 |6|✅  |Four card feature section| [four-card-feature-section](https://github.com/lia-oliveira/four-card-feature-section)| [Four card feature section Live](https://four-card-feature-section-brown-theta.vercel.app/)    |HTML5, CSS3, Mobile-first workflow, Media Query, Flexbox, CSS Grid|
 |5|✅      |Product Preview Card Component| [fm-product-preview-card-component repo](https://github.com/lia-oliveira/fm-product-preview-card-component)| [Product Preview Card Component Live](https://fm-product-preview-card-component-theta.vercel.app/)    | HTML5, CSS3, Mobile-fist workflow, BEM, CSS Grid, CSS Variables |
 |4|✅      |Recipe Page| [recipe-page repository](https://github.com/lia-oliveira/recipe-page)| [Recipe Page Live ](https://recipe-page-seven-teal.vercel.app/)    | HTML5, CSS3, Mobile-first workflow, Media Query, Flexbox |
