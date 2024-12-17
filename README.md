@@ -2,21 +2,30 @@
 Feel free to call me Lia!
 
 ## About Me
-Since I finished my undergraduate degree, I've been studying various programming languages like Java, Python, PHP, and JavaScript. I worked as a Java programming intern and as a data analyst using Python. Now, I'm looking for a new challenge, aiming to work as a front-end developer. I'm interested in user experience, design, interactivity, layout, colors, and things like that. This is the beginning of a new journey.
+🎓 Graduated in Computer Systems Analysis from Anhaguera Educacional.
 
-Let the game begin! 🚀
+🏝️ Passionate about tech and beach.
 
-## Badges
-Whenever an achievement is unlocked, the icon will turn colorful.
+🌱 Currently learning Front-end at Origamid and Frontend Mentor.
+
+🤝 Open to freelance opportunities as a Front-end Developer.
+
+📂 Check out my projects below and feel free to provide feedback or suggestions!
+
+📫 Contact Me: dev.gillian@gmail.com
+
+## Skills
+
+Here are the tools and technologies I work with:
 
 🟦 Beginner 🟨 Intermediate 🟩 Advanced
 
-![HTML5](https://img.shields.io/badge/HTML5-000000?&style=for-the-badge&logo=html5&logoColor=blue)
-![CSS3](https://img.shields.io/badge/CSS3-000000?&style=for-the-badge&logo=css3&logoColor=blue)
+![HTML5](https://img.shields.io/badge/HTML5-000000?&style=for-the-badge&logo=html5&logoColor=yellow)
+![CSS3](https://img.shields.io/badge/CSS3-000000?&style=for-the-badge&logo=css3&logoColor=yellow)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SaSS](https://img.shields.io/badge/Sass-000000?&style=for-the-badge&logo=sass&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?&style=for-the-badge&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?&style=for-the-badge&logo=javascript&logoColor=blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?&style=for-the-badge&logo=typescript&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-000000?&style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/React-000000?&style=for-the-badge&logo=react&logoColor=white)
@@ -30,8 +39,8 @@ Whenever an achievement is unlocked, the icon will turn colorful.
 ![Cassandra](https://img.shields.io/badge/Cassandra-000000?&style=for-the-badge&logo=apachecassandra&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-000000?&style=for-the-badge&logo=sqlite&logoColor=white)
 
-![Figma](https://img.shields.io/badge/Figma-000000?&style=for-the-badge&logo=figma&logoColor=blue)
-![Canva](https://img.shields.io/badge/Canva-000000?&style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?&style=for-the-badge&logo=figma&logoColor=yellow)
+![Canva](https://img.shields.io/badge/Canva-000000?&style=for-the-badge&logo=canva&logoColor=blue)
 ![Gimp](https://img.shields.io/badge/Gimp-000000?&style=for-the-badge&logo=gimp&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?&style=for-the-badge&logo=inkscape&logoColor=white)
 ![Mermaid](https://img.shields.io/badge/Mermaid-000000?&style=for-the-badge&logo=mermaid&logoColor=white)
