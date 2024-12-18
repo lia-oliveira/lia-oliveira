@@ -6,7 +6,7 @@ Feel free to call me Lia!
 
 🏝️ Passionate about tech and beach.
 
-🌱 Currently learning Front-end at Origamid and Frontend Mentor.
+🌱 Currently learning Front-end at [Origamid](https://www.origamid.com/) and [Frontend Mentor](https://www.frontendmentor.io/).
 
 🤝 Open to freelance opportunities as a Front-end Developer.
 
