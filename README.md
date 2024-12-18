@@ -46,7 +46,7 @@ Here are the tools and technologies I work with:
 ![Mermaid](https://img.shields.io/badge/Mermaid-000000?&style=for-the-badge&logo=mermaid&logoColor=white)
 
 # Github Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=lia-oliveira&theme=blue-green&background=16161f&border=0ab3d1&dates=e5e5e0&currStreakNum=D1640A&currStreakLabel=D1640A)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lia-oliveira&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lia-oliveira&layout=compact&theme=nightowl)](https://github.com/lia-oliveira)
 
 # Latest projects
