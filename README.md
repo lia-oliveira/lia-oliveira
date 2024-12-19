@@ -22,14 +22,15 @@ Here are the tools and technologies I work with:
 
 ![HTML5](https://img.shields.io/badge/HTML5-000000?&style=for-the-badge&logo=html5&logoColor=yellow)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?&style=for-the-badge&logo=css3&logoColor=yellow)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?&style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?&style=for-the-badge&logo=bootstrap&logoColor=blue)
 ![SaSS](https://img.shields.io/badge/Sass-000000?&style=for-the-badge&logo=sass&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?&style=for-the-badge&logo=javascript&logoColor=blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?&style=for-the-badge&logo=typescript&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-000000?&style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/React-000000?&style=for-the-badge&logo=react&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-000000?&style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?&style=for-the-badge&logo=tailwind-css&logoColor=blue)
+![Angular](https://img.shields.io/badge/Angular-000000?&style=for-the-badge&logo=angular&logoColor=blue)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?&style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-000000?&style=for-the-badge&logo=vuedotjs&logoColor=white)
 
