@@ -53,6 +53,7 @@ Here are the tools and technologies I work with:
 # Latest projects
 | # | Status | Title             | Repo                                                                            | Live URL                                                        | TAGS  |
 |:--:|:--:   |--                 |--                                                                               |--                                                               |--     |
+|11| 🚧work in progress |Newsletter sign-up form| [Newsletter sign-up form repo](https://github.com/lia-oliveira/newsletter-signup-form)| [Newsletter sign-up form repo]()   |HTML5, CSS3, JS|
 |10| 🚧work in progress |Bike Craft Store| [Bike Craft Store Repo](https://github.com/lia-oliveira/bike-craft)| [Bike Craft Store Live]()   |HTML5, CSS3, JS|
 |9| ✅ |Article Preview Component| [Article preview component](https://github.com/lia-oliveira/article-preview-component)| [Article preview component](https://article-preview-component-ten-rosy.vercel.app)   |HTML5, CSS3, JS|
 |8| ✅ |Meet Landing Page| [Meet Landing Page Repo](https://github.com/lia-oliveira/meet-landing-page)| [Meet Landing Page Live](https://meet-landing-page-rosy.vercel.app/)   |HTML5, CSS3, CSS Flexbox|
