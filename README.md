@@ -2,17 +2,17 @@
 Feel free to call me Lia!
 
 ## About Me
-🎓 Graduated in Computer Systems Analysis from Anhaguera Educacional.
+🟡 Graduated in Computer Systems Analysis from Anhaguera Educacional.
 
-🏝️ Passionate about tech and beach.
+🟡 Passionate about tech and beach.
 
-🌱 Currently learning Front-end at [Origamid](https://www.origamid.com/) and [Frontend Mentor](https://www.frontendmentor.io/).
+🟡 Currently learning Front-end at [Origamid](https://www.origamid.com/) and [Frontend Mentor](https://www.frontendmentor.io/).
 
-🤝 Open to freelance opportunities as a Front-end Developer.
+🟡 Open to freelance opportunities as a Front-end Developer.
 
-📂 Check out my projects below and feel free to provide feedback or suggestions!
+🟡 Check out my projects below and feel free to provide feedback or suggestions!
 
-📫 Contact Me: dev.gillian@gmail.com
+🟡 Contact Me: dev.gillian@gmail.com
 
 ## Skills
 
