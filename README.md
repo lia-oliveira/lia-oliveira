@@ -27,15 +27,16 @@ I have some level of knowledge in all the technologies mentioned below. However,
 ![HTML5](https://img.shields.io/badge/HTML5-ba68c8?&style=for-the-badge&logo=html5&logoColor=white&)
 ![CSS3](https://img.shields.io/badge/CSS3-ba68c8?&style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5fabcc?&style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-788992?&style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SaSS](https://img.shields.io/badge/Sass-788992?&style=for-the-badge&logo=sass&logoColor=white)
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-5fabcc?&style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-708189?&style=for-the-badge&logo=typescript&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-788992?&style=for-the-badge&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/React-788992?&style=for-the-badge&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-788992?&style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-708189?&style=for-the-badge&logo=angular&logoColor=white)
+
+![React](https://img.shields.io/badge/React-788992?&style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-708189?&style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-708189?&style=for-the-badge&logo=vuedotjs&logoColor=white)
 
