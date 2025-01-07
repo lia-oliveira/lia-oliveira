@@ -45,12 +45,13 @@ I have some level of knowledge in all the technologies mentioned below. However,
 ![MongoDb](https://img.shields.io/badge/MongoDB-708189?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-708189?&style=for-the-badge&logo=apachecassandra&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-708189?&style=for-the-badge&logo=sqlite&logoColor=white)
+![CouchDB](https://img.shields.io/badge/CouchDB-708189?&style=for-the-badge&logo=apachecouchdb&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/Figma-708189?&style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-708189?&style=for-the-badge&logo=canva&logoColor=white)
-![Gimp](https://img.shields.io/badge/Gimp-708189?&style=for-the-badge&logo=gimp&logoColor=white)
-![Inkscape](https://img.shields.io/badge/Inkscape-708189?&style=for-the-badge&logo=inkscape&logoColor=white)
-![Mermaid](https://img.shields.io/badge/Mermaid-708189?&style=for-the-badge&logo=mermaid&logoColor=white)
+![Git](https://img.shields.io/badge/Git-708189?&style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-708189?&style=for-the-badge&logo=docker&logoColor=white)
+
+
 
 # Github Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=lia-oliveira&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
