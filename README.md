@@ -8,7 +8,7 @@ Feel free to call me Lia!
 
 🟡 Currently learning Front-end at [Origamid](https://www.origamid.com/) and [Frontend Mentor](https://www.frontendmentor.io/).
 
-🟡 Open to freelance opportunities as a Front-end Developer.
+🟡 ~~Open to freelance opportunities as a Front-end Developer.~~
 
 🟡 Check out my projects below and feel free to provide feedback or suggestions!
 
