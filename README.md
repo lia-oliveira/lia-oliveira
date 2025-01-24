@@ -52,11 +52,11 @@ I have some level of knowledge in all the technologies mentioned below. However,
 ![Docker](https://img.shields.io/badge/Docker-708189?&style=for-the-badge&logo=docker&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-708189?&style=for-the-badge&logo=wordpress&logoColor=white)
 
-# Social
+## Social
 [![Discord](https://img.shields.io/badge/Discord-7289d9?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@liaoliveira.dev)
 [![Front-end Mentor Porftolio](https://img.shields.io/badge/Frontend_Mentor-7289d9?&style=for-the-badge&logo=html5&logoColor=white)](https://www.frontendmentor.io/profile/lia-oliveira)
 
-# Github Stats
+## Github Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=lia-oliveira&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lia-oliveira&layout=compact&theme=nightowl)](https://github.com/lia-oliveira)
 
