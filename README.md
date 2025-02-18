@@ -8,7 +8,7 @@ Feel free to call me Lia!
 
 🟡 Currently learning Front-end at [Origamid](https://www.origamid.com/) and [Frontend Mentor](https://www.frontendmentor.io/).
 
-🟡 ~~Open to freelance opportunities as a Front-end Developer.~~
+🟡 ~~Open to freelance opportunities.~~
 
 🟡 Check out my projects below and feel free to provide feedback or suggestions!
 
@@ -81,12 +81,13 @@ I have some level of knowledge in all the technologies mentioned below. However,
 
 [Google Cloud Digital Leader](https://www.credential.net/f45e3397-883f-4e10-9665-1d466aa13ebd#acc.wkVdHxq1)
 
-<img src="img/gillian-google-cloud-digital-leader.png" width="50%">
+<img src="img/gillian-google-cloud-digital-leader.png" width="40%">
 
 [Google Data Analytics Certificate](https://www.credly.com/badges/0edf4c5a-b16e-492e-bb4f-010a5b19aadd)
 
-<img src="img/gillian-google-analytics-certificate.jpg" width=50%>
+<img src="img/gillian-google-analytics-certificate.jpg" width=40%>
 
 [Google Cloud Skills Boost](https://partner.cloudskillsboost.google/public_profiles/62513d75-6599-45fb-97ff-f3ee2b43c17d)
 
-![](img/gillian-google-cloud-profile.jpg)
+<img src="img/gillian-google-cloud-profile.jpg" width="40%">
+
