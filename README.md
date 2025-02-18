@@ -52,6 +52,16 @@ I have some level of knowledge in all the technologies mentioned below. However,
 ![Docker](https://img.shields.io/badge/Docker-708189?&style=for-the-badge&logo=docker&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-708189?&style=for-the-badge&logo=wordpress&logoColor=white)
 
+## Certifications e Badges
+
+[Google Cloud Digital Leader](https://www.credential.net/f45e3397-883f-4e10-9665-1d466aa13ebd#acc.wkVdHxq1)
+
+<img src="img/gillian-google-cloud-digital-leader.png" width="50%">
+
+[Google Data Analytics Certificate](https://www.credly.com/badges/0edf4c5a-b16e-492e-bb4f-010a5b19aadd)
+
+<img src="img/gillian-google-analytics-certificate.jpg" width=50%>
+
 ## Social
 [![Discord](https://img.shields.io/badge/Discord-7289d9?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@liaoliveira.dev)
 [![Front-end Mentor Porftolio](https://img.shields.io/badge/Frontend_Mentor-7289d9?&style=for-the-badge&logo=html5&logoColor=white)](https://www.frontendmentor.io/profile/lia-oliveira)
