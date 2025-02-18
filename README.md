@@ -52,16 +52,6 @@ I have some level of knowledge in all the technologies mentioned below. However,
 ![Docker](https://img.shields.io/badge/Docker-708189?&style=for-the-badge&logo=docker&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-708189?&style=for-the-badge&logo=wordpress&logoColor=white)
 
-## Certifications e Badges
-
-[Google Cloud Digital Leader](https://www.credential.net/f45e3397-883f-4e10-9665-1d466aa13ebd#acc.wkVdHxq1)
-
-<img src="img/gillian-google-cloud-digital-leader.png" width="50%">
-
-[Google Data Analytics Certificate](https://www.credly.com/badges/0edf4c5a-b16e-492e-bb4f-010a5b19aadd)
-
-<img src="img/gillian-google-analytics-certificate.jpg" width=50%>
-
 ## Social
 [![Discord](https://img.shields.io/badge/Discord-7289d9?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@liaoliveira.dev)
 [![Front-end Mentor Porftolio](https://img.shields.io/badge/Frontend_Mentor-7289d9?&style=for-the-badge&logo=html5&logoColor=white)](https://www.frontendmentor.io/profile/lia-oliveira)
@@ -85,3 +75,18 @@ I have some level of knowledge in all the technologies mentioned below. However,
 |3|✅      |Social Links Profile | [social-links-profile repository](https://github.com/lia-oliveira/social-links-profile)| [Social Links Profile Live ](https://social-links-profile-one-lac.vercel.app/)    | HTML5, CSS3, CSS Flexbox  |
 |2|✅      |Blog Preview Card  | [blog-preview-card repository](https://github.com/lia-oliveira/blog-preview-card)| [Blog Preview Card Live](https://blog-preview-card-seven-ruddy.vercel.app/)  | HTML5, CSS3, CSS Grid, Flexbox, Figma, Design System, CSS Variables, Responsive Web Design|
 |1|✅      |QR Code Component  | [qrcode-component repository](https://github.com/lia-oliveira/qrcode-component) | [QR Component Live](https://qrcode-component-khaki.vercel.app/) | HTML5, CSS3, CSS GRID, Flexbox, Figma, Design System|
+
+
+## Certifications e Badges
+
+[Google Cloud Digital Leader](https://www.credential.net/f45e3397-883f-4e10-9665-1d466aa13ebd#acc.wkVdHxq1)
+
+<img src="img/gillian-google-cloud-digital-leader.png" width="50%">
+
+[Google Data Analytics Certificate](https://www.credly.com/badges/0edf4c5a-b16e-492e-bb4f-010a5b19aadd)
+
+<img src="img/gillian-google-analytics-certificate.jpg" width=50%>
+
+[Google Cloud Skills Boost](https://partner.cloudskillsboost.google/public_profiles/62513d75-6599-45fb-97ff-f3ee2b43c17d)
+
+![](img/gillian-google-cloud-profile.jpg)
