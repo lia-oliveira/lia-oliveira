@@ -23,7 +23,6 @@ Skill level:
 ![Intermediate](https://img.shields.io/badge/Intermediate-ba68c8?&style=for-the-badge)
 ![Advanced](https://img.shields.io/badge/Advanced-6bbd6f?&style=for-the-badge)
 
-I have some level of knowledge in all the technologies mentioned below. However, I will update the proficiency level once I add projects to the repository that demonstrate my experience with these technologies.
 
 |Area   | Skill 1| Skill 2| Skill 3| Skill 4|
 |--     |--      |--      |--      |--      |
