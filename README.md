@@ -1,18 +1,19 @@
 # 👋🏻 Hey everyone! Welcome to my GitHub.
-Feel free to call me Lia!
 
 ## About Me
-🟡 Graduated in Computer Systems Analysis from Anhaguera Educacional.
+🟡 Graduada em Análise e Desenvolvimento de Sistemas pela Anhaguera Educacional.
 
-🟡 Passionate about tech and beach.
+🟡 Atualmente estudando Java na [Udemy](https://www.udemy.com/course/java-curso-completo) e na plataforma [DevSuperior](https://devsuperior.com.br/) 
 
-🟡 Currently learning Front-end at [Origamid](https://www.origamid.com/) and [Frontend Mentor](https://www.frontendmentor.io/).
+🟡 ~~Disponível para trabalhos como freelancer.~~
 
-🟡 ~~Open to freelance opportunities.~~
+🟡 Veja a lista com meus últimos projetos logo abaixo e sinta-se à vontade para dar seu feedback! 
 
-🟡 Check out my projects below and feel free to provide feedback or suggestions!
+🟡 Fale comigo: dev.gillian@gmail.com
 
-🟡 Contact Me: dev.gillian@gmail.com
+
+👩🏼‍💻 Aviso importante! Este portfólio está em construção.
+
 
 ## Skills
 
@@ -24,33 +25,13 @@ Skill level:
 
 I have some level of knowledge in all the technologies mentioned below. However, I will update the proficiency level once I add projects to the repository that demonstrate my experience with these technologies.
 
-![HTML5](https://img.shields.io/badge/HTML5-ba68c8?&style=for-the-badge&logo=html5&logoColor=white&)
-![CSS3](https://img.shields.io/badge/CSS3-ba68c8?&style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5fabcc?&style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-788992?&style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SaSS](https://img.shields.io/badge/Sass-788992?&style=for-the-badge&logo=sass&logoColor=white)
+|Area   | Skill 1| Skill 2| Skill 3| Skill 4|
+|--     |--      |--      |--      |--      |
+|Front-end |![HTML5](https://img.shields.io/badge/HTML5-ba68c8?&style=for-the-badge&logo=html5&logoColor=white&) |![CSS3](https://img.shields.io/badge/CSS3-ba68c8?&style=for-the-badge&logo=css3&logoColor=white) |![JavaScript](https://img.shields.io/badge/JavaScript-5fabcc?&style=for-the-badge&logo=javascript&logoColor=white)|![Angular](https://img.shields.io/badge/Angular-5fabcc?&style=for-the-badge&logo=angular&logoColor=white)|
+|Back-end| ![Java](https://img.shields.io/badge/Java-ba68c8?&style=for-the-badge&logo=java&logoColor=white)| Spring Boot | Swagger | Flyway|
+|Análise de Dados | ![Python](https://img.shields.io/badge/Python-ba68c8?&style=for-the-badge&logo=Python&logoColor=white)| ![R](https://img.shields.io/badge/R-ba68c8?&style=for-the-badge&logo=R&logoColor=white) | Power BI | SQL |
+|Outros| ![Docker](https://img.shields.io/badge/Docker-708189?&style=for-the-badge&logo=docker&logoColor=white) | GitHub | || 
 
-
-![JavaScript](https://img.shields.io/badge/JavaScript-5fabcc?&style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-708189?&style=for-the-badge&logo=typescript&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-788992?&style=for-the-badge&logo=jquery&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-708189?&style=for-the-badge&logo=angular&logoColor=white)
-
-![React](https://img.shields.io/badge/React-788992?&style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-708189?&style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-708189?&style=for-the-badge&logo=vuedotjs&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySql-708189?&style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-708189?&style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDb](https://img.shields.io/badge/MongoDB-708189?&style=for-the-badge&logo=mongodb&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-708189?&style=for-the-badge&logo=apachecassandra&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-708189?&style=for-the-badge&logo=sqlite&logoColor=white)
-![CouchDB](https://img.shields.io/badge/CouchDB-708189?&style=for-the-badge&logo=apachecouchdb&logoColor=white)
-
-![Figma](https://img.shields.io/badge/Figma-708189?&style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-708189?&style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-708189?&style=for-the-badge&logo=docker&logoColor=white)
-![Wordpress](https://img.shields.io/badge/Wordpress-708189?&style=for-the-badge&logo=wordpress&logoColor=white)
 
 ## Social
 [![Discord](https://img.shields.io/badge/Discord-7289d9?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@liaoliveira.dev)
