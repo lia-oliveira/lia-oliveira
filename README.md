@@ -9,7 +9,7 @@
 
 🟡 Veja a lista com meus últimos projetos logo abaixo e sinta-se à vontade para dar seu feedback! 
 
-🟡 Fale comigo: dev.gillian@gmail.com
+🟡 Fale comigo: brgillian@gmail.com
 
 
 👩🏼‍💻 Aviso importante! Este portfólio está em construção.
@@ -17,19 +17,7 @@
 
 ## Skills
 
-Skill level:
-
-![Beginner](https://img.shields.io/badge/Beginner-5fabcc?&style=for-the-badge)
-![Intermediate](https://img.shields.io/badge/Intermediate-ba68c8?&style=for-the-badge)
-![Advanced](https://img.shields.io/badge/Advanced-6bbd6f?&style=for-the-badge)
-
-
-|Area   | Skill 1| Skill 2| Skill 3| Skill 4|
-|--     |--      |--      |--      |--      |
-|Front-end |![HTML5](https://img.shields.io/badge/HTML5-ba68c8?&style=for-the-badge&logo=html5&logoColor=white&) |![CSS3](https://img.shields.io/badge/CSS3-ba68c8?&style=for-the-badge&logo=css3&logoColor=white) |![JavaScript](https://img.shields.io/badge/JavaScript-5fabcc?&style=for-the-badge&logo=javascript&logoColor=white)|![Angular](https://img.shields.io/badge/Angular-5fabcc?&style=for-the-badge&logo=angular&logoColor=white)|
-|Back-end| ![Java](https://img.shields.io/badge/Java-ba68c8?&style=for-the-badge&logo=java&logoColor=white)| Spring Boot | Swagger | Flyway|
-|Análise de Dados | ![Python](https://img.shields.io/badge/Python-ba68c8?&style=for-the-badge&logo=Python&logoColor=white)| ![R](https://img.shields.io/badge/R-ba68c8?&style=for-the-badge&logo=R&logoColor=white) | Power BI | SQL |
-|Outros| ![Docker](https://img.shields.io/badge/Docker-708189?&style=for-the-badge&logo=docker&logoColor=white) | GitHub | || 
+[![My Skills](https://skillicons.dev/icons?i=java,py,docker,github,mysql,mongodb,js,html,css,angular,figma)](https://skillicons.dev)
 
 
 ## Social
